@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\c++_vs\test_4.22\test_4.22\test.cpp(45): warning C4305: “初始化”: 从“double”到“float”截断
+  test_4.22.vcxproj -> D:\C++_vs\test_4.22\Debug\test_4.22.exe
